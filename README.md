@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yugads03
-- 👀 I’m interested in Web development and Python
-- 🌱 I’m currently learning Python, Full Stack Development
+- 👀 I’m interested in Data Science and Analytics. 
+- 🌱 I’m currently learning Data analytics, machine learning and statistics. 
 - 📫 How to reach me : yugads1003@gmail.com
 
 <!---
